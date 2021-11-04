@@ -10,7 +10,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed:10,
-      typeSpeed:60,
+      typeSpeed:35,
       strings: ["May this Diwali fill our lives with new hopes for the future and new dreams for tomorrow. With lots of love, wishing you a very Happy Diwali", "Wishing you a life of prosperity, Wishing that you attain victory in all that you start. Happy Diwali","Another year will be over, another year will come. I hope and pray that the lights of Diwali illuminate the new chapter of your life"],
     });
   }, []);
