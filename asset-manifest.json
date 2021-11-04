@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Diwali/static/css/main.93f152ed.chunk.css",
-    "main.js": "/Diwali/static/js/main.d8d74a95.chunk.js",
-    "main.js.map": "/Diwali/static/js/main.d8d74a95.chunk.js.map",
+    "main.css": "/Diwali/static/css/main.30d03e0b.chunk.css",
+    "main.js": "/Diwali/static/js/main.a927e2b7.chunk.js",
+    "main.js.map": "/Diwali/static/js/main.a927e2b7.chunk.js.map",
     "runtime-main.js": "/Diwali/static/js/runtime-main.50af226c.js",
     "runtime-main.js.map": "/Diwali/static/js/runtime-main.50af226c.js.map",
-    "static/js/2.91355d6b.chunk.js": "/Diwali/static/js/2.91355d6b.chunk.js",
-    "static/js/2.91355d6b.chunk.js.map": "/Diwali/static/js/2.91355d6b.chunk.js.map",
+    "static/js/2.ffd8452b.chunk.js": "/Diwali/static/js/2.ffd8452b.chunk.js",
+    "static/js/2.ffd8452b.chunk.js.map": "/Diwali/static/js/2.ffd8452b.chunk.js.map",
     "index.html": "/Diwali/index.html",
-    "static/css/main.93f152ed.chunk.css.map": "/Diwali/static/css/main.93f152ed.chunk.css.map",
-    "static/js/2.91355d6b.chunk.js.LICENSE.txt": "/Diwali/static/js/2.91355d6b.chunk.js.LICENSE.txt"
+    "static/css/main.30d03e0b.chunk.css.map": "/Diwali/static/css/main.30d03e0b.chunk.css.map",
+    "static/js/2.ffd8452b.chunk.js.LICENSE.txt": "/Diwali/static/js/2.ffd8452b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.50af226c.js",
-    "static/js/2.91355d6b.chunk.js",
-    "static/css/main.93f152ed.chunk.css",
-    "static/js/main.d8d74a95.chunk.js"
+    "static/js/2.ffd8452b.chunk.js",
+    "static/css/main.30d03e0b.chunk.css",
+    "static/js/main.a927e2b7.chunk.js"
   ]
 }
