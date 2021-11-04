@@ -25,12 +25,14 @@ h1,h2,h3,span{
 
       img {
         height: 70%;
+        width: 50vw;
         // border-radius: 50%;
 
         
 
         @include mobile{
-          height: auto;
+          height: 50vh;
+          width: 100vw;
         }
       }
   }

@@ -20,6 +20,7 @@ export default function Intro() {
       <div className="left">
         <div className="imgContainer">
           <img src="assets/diwalicrop.jpg" alt="" />
+          {/* <img src="https://image.freepik.com/free-vector/white-background-diwali_1035-4014.jpg" alt="" /> */}
         </div>
       </div>
       <div className="right">
